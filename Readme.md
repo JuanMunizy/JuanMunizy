@@ -104,6 +104,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **TypeScript**, *
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+
 
 </div>

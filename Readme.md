@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="./assets/mew.gif" width="50%" alt="banner"/>
+  <img src="./assets/pexe.gif" width="50%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -43,7 +43,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **TypeScript**, *
 
 <br clear="right"/>
 
----
+
 
 ## ⚙️ Technologies
 
@@ -88,7 +88,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **TypeScript**, *
 ## 🗡️ Featured Project
 
 <div align="center">
-  <img src="./assets/bop.jpg" alt="Agrofy API" width="180" />
+  <img src="./assets/yagu.gif" alt="Agrofy API" width="180" />
 
   ## Agrofy API
 

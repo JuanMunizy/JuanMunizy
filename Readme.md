@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="./assets/zangetsu.jpg" width="100%" alt="banner"/>
+  <img src="./assets/mew.gif" width="50%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -38,7 +38,8 @@ I code because every project I build is a challenge to prove what I’m capable 
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Git**, **Java**, **PHP** and I’m currently exploring **AI**.
 
-<img align="right" width="200px" src="./assets/astro.jpg" alt="character"/>
+<img align="right" width="200px" src="./assets/sackboy.gif" alt="character"/>
+<img align="left" width="200px" src="./assets/sackboy2.gif"
 
 <br clear="right"/>
 
